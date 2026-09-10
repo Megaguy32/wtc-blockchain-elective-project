@@ -62,5 +62,23 @@ yes math , code
 
 
 ## 1.3 History Of Blockchain
+## 1.4 Benefits Of Blockchain
+## 1.5 User Cases Of Blockchains
+## 1.6 Many Many Chains
+
+  
+
+
+
+## 1.11 🔳 Quiz
+
+
+## 2. Sending Transactions
+## 2.1
+## 2.2 What Is A Wallet
+## 2.3 Setting Up A Wallet
+## 2.4
+## 2.5 Sending Your First Transaction
+## 2.6 A Note On Testnets
 
 
