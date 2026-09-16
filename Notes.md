@@ -70,7 +70,7 @@ yes math , code
 
 
 
-## 1.11 🔳 Quiz
+## 1.11 ✅ Quiz
 
 
 ## 2. Sending Transactions
@@ -81,4 +81,84 @@ yes math , code
 ## 2.5 Sending Your First Transaction
 ## 2.6 A Note On Testnets
 
+
+## 3. Blockchain Architecture
+
+## 3.1
+## 3.2 Blockchain Architecture Overview
+## 3.3 Consensus Fundamentals
+proof of work
+proof of stake
+
+## 3.4 How PoW Blockchains Work
+## 3.5 Introduction To Signatures
+cryptography
+
+## 3.6 How PoS Blockchains Work
+## 3.7 Quiz
+
+transaction secured after 6 confirmations.
+5 blocks added to blockchain since transaction's block
+
+public key correspondes to private key
+wallet address is hashed public key.
+
+
+## 3.8 Blockchain Vulnerabilities
+
+chain ID 
+Nonce
+
+## 3.9 Gard Forks
+
+## 3.10 EIP vs ERC
+
+Ethereum Improvement Proposal
+
+drafted
+review
+
+
+Ethereum Request for Comment
+
+
+## 3.11 Gas In Depth
+
+## 3.12 The Lifecycle Of A Transaction
+
+pending
+confirmed
+final
+dropped
+reverted
+
+## 3.13 Account Abstraction
+
+smart contracts are programmable but unable start transactions
+
+paymasters
+
+
+## 3.14 Temporary Smart Wallet
+
+EIP 7702
+
+## 3.15 Quiz
+
+prevents 'replay attack'
+    chain ID
+    
+NFT : ERC-721
+
+EIP-7702 is type 4 transaction
+
+
+
+
+
+## 4. Blockchain Use Cases
+
+
+## 4.1
+## 4.2 Blockchain Use Cases Overview
 
