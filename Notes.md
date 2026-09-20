@@ -158,9 +158,30 @@ EIP-7702 is type 4 transaction
 
 ## 4. Blockchain Use Cases
 
-
 ## 4.1
 ## 4.2 Blockchain Use Cases Overview
 ## 4.3 What Is Defi
 ## 4.4 Tokens
-## 
+## 4.5
+## 4.6
+## 4.7
+
+
+## 5. Scalability
+
+## 5.1
+## 5.2 L1s L2s And Rollups
+## 5.3
+## 5.4 Rollup Stages
+## 5.5 Making Your First Transaction On ZKsync
+## 5.6 Why ZKsync Is Our Recommended Chain
+
+
+
+
+
+
+
+
+
+
