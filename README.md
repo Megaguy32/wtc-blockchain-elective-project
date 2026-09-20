@@ -1,3 +1,6 @@
+WTC-645AHJTA
+^ WTC verification code to recognise submission
+
 1st choice: Blockchain Development
 
 Entry filter: Africa's Blockchain Club (ABC) membership is required - no exceptions. Membership is verified before final seat confirmation. Seats: 20.
