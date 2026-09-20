@@ -161,4 +161,6 @@ EIP-7702 is type 4 transaction
 
 ## 4.1
 ## 4.2 Blockchain Use Cases Overview
-
+## 4.3 What Is Defi
+## 4.4 Tokens
+## 
